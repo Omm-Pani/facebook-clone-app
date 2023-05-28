@@ -1,0 +1,22 @@
+.right_home {
+  position: fixed;
+  left: 79.14vw;
+  top: 4rem;
+}
+.heading {
+  font-size: 17px;
+  font-weight: 600;
+  color: var(--color-secondary);
+  padding: 13px 10px 11px 10px;
+}
+.right_item {
+  display: flex;
+  align-items: center;
+  padding: 7px;
+  width: 170%;
+  border-radius: 8px;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  transform: translateX(5px);
+}
